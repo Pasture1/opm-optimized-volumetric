@@ -18,6 +18,10 @@ Go to PoodsOPMVO and remove the following:
 
 - Scatterer (folder)
 
+Go to OPMVolumetricClouds and remove the following:
+
+- Patches (folder)
+
 ### Installing new config
 Go to the gamedata folder and drag everything out of the zip file into it. If it asks, press overwrite. If you wish you can also just copy the text from Clouds.cfg into StockVolumetricClouds/Clouds/clouds.cfg
 
